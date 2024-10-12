@@ -28,7 +28,7 @@ By using **Universal Video Downloader**, you acknowledge that you have read, und
 
 ## Key Features
 
-- **Cross-Platform Support**: Compatible with a variety of platforms like YouTube, GogoAnime, and other open-source video platforms.
+- **Cross-Platform Support**: Compatible with a variety of platforms like YouTube,Dailymotion,Vimeo and other open-source video platforms.
 - **Multiple Quality Options**: Download videos in different resolutions, from 360p up to 4K, to meet your storage and quality needs.
 - **User-Friendly Interface**: Intuitive graphical user interface (GUI) built with Python’s Tkinter, making it accessible for users of all technical levels.
 - **Dark Mode**: Toggle between light and dark modes to reduce eye strain and enhance visual comfort.
