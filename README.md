@@ -62,7 +62,3 @@ By using **Universal Video Downloader**, you acknowledge that you have read, und
 ## Contributing
 
 We welcome contributions from the community! Feel free to open an issue or submit a pull request if you have suggestions for improvements, bug fixes, or new features.
-
-## License
-
-This project is open-source and distributed under the [MIT License](LICENSE).
