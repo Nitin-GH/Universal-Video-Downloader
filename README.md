@@ -1,7 +1,7 @@
 # Universal Video Downloader
 
 ## Disclaimer 
-
+ 
 **Last Updated: October 12, 2024**
 
 The following disclaimer governs the use of **Universal Video Downloader**:
