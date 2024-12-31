@@ -1,6 +1,6 @@
 # Universal Video Downloader
 
-## Disclaimer 
+## Disclaimer
  
 **Last Updated: October 12, 2024**
 
