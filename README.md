@@ -1,4 +1,5 @@
-![**Repo Visits**](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Nitin-GH/Universal-Video-Downloader&count_bg=%23007bff&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=**Repo%20Visits**&edge_flat=false)
+![REPO VISITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Nitin-GH/Universal-Video-Downloader&count_bg=%23007bff&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=REPO%20VISITS&edge_flat=false)
+
 
 # Universal Video Downloader
 
