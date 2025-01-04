@@ -3,7 +3,7 @@
 ## Disclaimer
  
 **Last Updated: October 12, 2024**
-
+ 
 The following disclaimer governs the use of **Universal Video Downloader**:
 
 1. **Purpose of the Software**: **Universal Video Downloader** is designed to assist users in **downloading open-source materials**. It is intended for **personal** and **lawful use only**.
