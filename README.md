@@ -1,5 +1,4 @@
-![REPO VISITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Nitin-GH/Universal-Video-Downloader&count_bg=%23007bff&title_bg=%23808080&icon=&icon_color=%23FFFFFF&title=REPO%20VISITS&edge_flat=false)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNitin-GH%2FUniversal-Video-Downloader&count_bg=%232511B7&title_bg=%230200FF&icon=umbraco.svg&icon_color=%23FFFFFF&title=Repo+visits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Disclaimer
  
 **Last Updated: October 12, 2024**
